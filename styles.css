@@ -71,10 +71,10 @@ a:link{
     
 }
 
-/* .origami:hover{ */
+ .origami:hover{ 
 /*.origami : mouseover{*/
 /*.origami:link{*/
-.origami:hover{
 
-    transform: scale(1.2)
+
+    transform: scale(1.2);
 }
